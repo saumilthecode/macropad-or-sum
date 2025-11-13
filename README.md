@@ -32,4 +32,4 @@ Bom
 
 1x[ Adafruit #1201 ](https://www.adafruit.com/product/1201?srsltid=AfmBOorIg7DYS5Oe22-k5PqfDXi-HshCgHwpwxbLdSgYLjnJjXQLFYlo)
 
-PCB sits on top of the bottom case with everything rounded off for comfort. the yellow is to be printed seperately and slotted in on top (it is cut off on the tail & xiao end so that there's no clearance issues + easy access +
+PCB sits on top of the bottom case with everything rounded off for comfort. the yellow is to be printed seperately and slotted in on top (it is cut off on the tail & xiao end so that there's no clearance issues + easy access + so the vibration motor can free itself when the time comes
