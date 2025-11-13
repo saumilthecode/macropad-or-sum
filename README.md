@@ -15,7 +15,7 @@ the schematic is this
 overall sharkpad should look like this
 
 PCB sits on top of the bottom case with everything rounded off for comfort. the yellow is to be printed seperately and slotted in on top (it is cut off on the tail & xiao end so that there's no clearance issues + easy access + so the vibration motor can free itself when the time comes
-![]([https://github.com/saumilthecode/macropad-or-sum/blob/master/pictures/Untitled.png?raw=true](https://github.com/saumilthecode/macropad-or-sum/blob/master/pictures/picture.png?raw=true))
+![](https://github.com/saumilthecode/macropad-or-sum/blob/master/pictures/picture.png?raw=true)
 
 document with all sides of the finished pad!
 ![](https://github.com/saumilthecode/macropad-or-sum/blob/master/pictures/sharked_page-0001.jpg?raw=true)
