@@ -1,6 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "OPL")(type "KiCad")(uri "${KIPRJMOD}/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
-  (lib (name "OPL3")(type "KiCad")(uri "/Users/saumil/Downloads/Seeeduino-xiao-rp2040-KiCAD-Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
-  (lib (name "Seeed_Studio_XIAO_Series")(type "KiCad")(uri "/Users/saumil/Downloads/Seeeduino-xiao-rp2040-KiCAD-Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "OPL")(type "KiCad")(uri "/Users/saumil/OPL_Kicad_Library/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
 )

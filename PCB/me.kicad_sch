@@ -2866,7 +2866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RF_Module:MCU_Seeed_ESP32C3"
+		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-RP2040-DIP"
 			(at 114.808 98.298 0)
 			(effects
 				(font
